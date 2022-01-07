@@ -1,5 +1,5 @@
 # First-Lego-League
-🪵Always report any changees to our change-log channel
+🪵Always report any changes to our change-log channel
 
 🤝Be respectful
 
