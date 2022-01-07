@@ -1,2 +1,2 @@
 # First-Lego-League
-Here we post code changes before commit you could also find solutions here.
+🪵Always report any changees to our change-log channel
